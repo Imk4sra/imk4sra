@@ -42,7 +42,7 @@ Coding training for 5 years, after changing jobs. I started with Python, but I w
 </br>
 <code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
 <code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
-<code><img src="https://img.shields.io/badge/AdobeAe-FF61F6.svg?style=for-the-badge&logo=AdobeAe&logoColor=white" alt="After Effects"></code>
+<code><img src="https://img.shields.io/badge/AdobePr-FF61F6.svg?style=for-the-badge&logo=AdobePr&logoColor=white" alt="Adobe premiere pro"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
 <code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
 </div>
