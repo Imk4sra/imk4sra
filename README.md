@@ -33,16 +33,16 @@ Coding training for 5 years, after changing jobs. I started with Python, but I w
 <br/>
 <code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
 <code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
-<code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
-<code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
+<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
+<code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
+<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>  
 </div>
 
 <div align="center">
 </br>
-<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
-<code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"></code>
-<code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
-<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
+<code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
+<code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
+<code><img src="https://img.shields.io/badge/aftereffect-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="aftereffect"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
 <code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
 </div>
