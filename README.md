@@ -14,7 +14,7 @@ Coding training for 5 years, after changing jobs. I started with Python, but I w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imk4sra" alt="imk4sra" /> </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/357233919285919746)
+[![Discord Presence](https://lanyard.cnrad.dev/api/357233919285919746)](https://discord.com/users/357233919285919746)
 
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 </h2>
 <div align="center">
