@@ -4,7 +4,7 @@ Hi 👋 My name is kasra
 Network Security Engineer
 -------------------------
 
-Coding training for 5 years, after changing jobs. I started with Python, but I was really interested in developing Backend ...
+Coding training for 7 years, after changing jobs. I started with Python, but I was really interested in developing Backend ...
 
 * 🌍  I'm based in iran
 * 🧠  I'm learning Ruby & Rust & PhP
