@@ -6,11 +6,10 @@ Network Security Engineer
 
 Coding training for 7 years, after changing jobs. I started with Python, but I was really interested in developing Backend ...
 
-* 🌍  I'm based in iran
+* 🌍  I'm based in UAE
 * 🧠  I'm learning Ruby & Rust & PhP
 * 🤝  I'm open to collaborating on Security of social networks and websites
-* ⚡  Fun fact I also draw, cook and play games ;)
-* 👨‍💻 [my discord](https://discord.gg/5zn4GYhFZS)
+* ⚡  Fun fact I also draw and play games ;)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imk4sra" alt="imk4sra" /> </p>
 
