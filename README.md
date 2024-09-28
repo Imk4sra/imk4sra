@@ -1,21 +1,27 @@
-Hi 👋 My name is kasra
-======================
+# 👋 Hey, I'm Kasra!
 
-Network Security Engineer
--------------------------
+### Network Security Engineer | Coder | Gamer | Artist
 
-Coding training for 7 years, after changing jobs. I started with Python, but I was really interested in developing Backend ...
+I've been coding for over 9 years, starting with Python, and now I’m diving deeper into backend development while expanding my knowledge in Ruby, Rust, and PHP. I’m passionate about security, ensuring that networks and websites are protected, while also enjoying drawing and gaming in my free time.
 
-* 🌍  I'm based in UAE
-* 🧠  I'm learning Ruby & Rust & PhP
-* 🤝  I'm open to collaborating on Security of social networks and websites
-* ⚡  Fun fact I also draw and play games ;)
+---
+
+### 💼 Current Ventures
+- **Location**: Based in the **UAE**
+- **Learning**: Currently expanding my skills with **Ruby**, **Rust**, and **PHP**
+- **Collaborations**: Open to working on **security** for social networks and websites
+- **Fun Fact**: I love to **draw** and play **games**!
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imk4sra" alt="imk4sra" /> </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/357233919285919746)](https://discord.com/users/357233919285919746)
 
-<h2> 𝙎𝙠𝙞𝙡𝙡𝙨 </h2>
+---
+
+### ⚙️ Tech Stack & Skills
+
 <div align="center">
 <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
 <code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
@@ -34,18 +40,27 @@ Coding training for 7 years, after changing jobs. I started with Python, but I w
 <code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
 <code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
-<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>  
+<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
 </div>
 
+---
+
+### 🎨 Design & Security
+
 <div align="center">
-</br>
 <code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
 <code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
 <code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
 </div>
 
+---
 
-### Socials
+### 📫 Get in touch
+- **Discord**: [Kasra on Discord](https://discord.com/users/357233919285919746)
+- **GitHub**: [Kasra's GitHub](https://www.github.com/imk4sra)
+- **Instagram**: [Kasra's Instagram](http://www.instagram.com/o2xl5)
 
-<p align="left"> <a href="https://discord.com/users/357233919285919746" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/imk4sra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/o2xl5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+---
+
+_"Work hard, but chill harder."_ 👑
