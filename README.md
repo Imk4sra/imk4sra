@@ -1,68 +1,82 @@
 # 👋 Hey, I'm Kasra!
 
-### Network Security Engineer | Coder | Gamer | Artist
+## Network Security Engineer | Backend Developer | Artist
 
-I've been coding for over 9 years, starting with Python, and now I’m diving deeper into backend development while expanding my knowledge in Ruby, Rust, and PHP. I’m passionate about security, ensuring that networks and websites are protected, while also enjoying drawing and gaming in my free time.
-
----
-
-### 💼 Current Ventures
-- **Location**: Based in the **UAE**
-- **Learning**: Currently expanding my skills with **Ruby**, **Rust**, and **PHP**
-- **Collaborations**: Open to working on **security** for social networks and websites
-- **Fun Fact**: I love to **draw** and play **games**!
+With over 9 years of coding experience, I began my journey with **Python** and have since expanded into **backend development** with a focus on **Ruby**, **Rust**, and **PHP**. Passionate about **network security**, I ensure systems are secure and scalable. When I’m not diving into code, you’ll find me **drawing** or **gaming**.
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imk4sra" alt="imk4sra" /> </p>
+### 💼 **Current Focus**
+- **Location**: UAE
+- **Learning**: Ruby, Rust, PHP
+- **Collaborations**: Open to projects in **network security** and **web security**
+- **Hobbies**: Drawing, Gaming
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imk4sra&style=flat-square&color=brightgreen" alt="GitHub Profile Views" /> </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/357233919285919746)](https://discord.com/users/357233919285919746)
 
 ---
 
-### ⚙️ Tech Stack & Skills
+### ⚙️ **Tech Stack**
 
+#### Languages & Frameworks
 <div align="center">
-<code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
-<code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
-<code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
-<code><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></code>
-<code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
-<br/>
-<br/>  
-<code><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></code>
-<code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"></code>
-<code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
-<code><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></code>
-<br/>
-<br/>
-<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
-<code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
-<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
-<code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
-<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</div>
+
+#### Databases & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+</div>
+
+#### Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </div>
 
 ---
 
-### 🎨 Design, Security & Networking
+### 🔒 **Security & Networking**
 
 <div align="center">
-<code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
-<code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
-<code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
-<code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
-<code><img src="https://img.shields.io/badge/MikroTik-003366?style=for-the-badge&logo=mikrotik&logoColor=white" alt="mikrotik"></code>
-<code><img src="https://img.shields.io/badge/CCNA-9B9B9B?style=for-the-badge&logo=ccna&logoColor=white" alt="ccna"></code>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/MikroTik-005C8A?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
 </div>
 
 ---
 
-### 📫 Get in touch
+### 🎨 **Design Skills**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
+</div>
+
+---
+
+### 📫 **Get in Touch**
+
 - **Discord**: [Kasra on Discord](https://discord.com/users/357233919285919746)
 - **GitHub**: [Kasra's GitHub](https://www.github.com/imk4sra)
 - **Instagram**: [Kasra's Instagram](http://www.instagram.com/o2xl5)
 
 ---
 
-_"Work hard, but chill harder."_ 👑
+> _"Work hard, but chill harder."_ 👑
