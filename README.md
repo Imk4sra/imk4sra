@@ -45,13 +45,15 @@ I've been coding for over 9 years, starting with Python, and now I’m diving de
 
 ---
 
-### 🎨 Design & Security
+### 🎨 Design, Security & Networking
 
 <div align="center">
 <code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
 <code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
 <code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
+<code><img src="https://img.shields.io/badge/MikroTik-003366?style=for-the-badge&logo=mikrotik&logoColor=white" alt="mikrotik"></code>
+<code><img src="https://img.shields.io/badge/CCNA-9B9B9B?style=for-the-badge&logo=ccna&logoColor=white" alt="ccna"></code>
 </div>
 
 ---
